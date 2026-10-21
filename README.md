@@ -7,9 +7,9 @@
 ---
 
 ### 🚀 Chi sono
-- 🎓 **Studio:** Ingegneria informatica e dell'automazione - UNIVPM
+- 🎓 **Studio:** Corso Magistrale in Ingegneria informatica e dell'automazione - UNIVPM
 - 🔭 **Sto lavorando a** [RENTRINOPROBLEM](https://rentrinoproblem.it)
-- 🌱 **Sto imparando** attraverso corsi universitari e laboratori pratici
+- 🌱 **Cosa ho fatto** [PORTFOLIO](https://github.com/EttoreRii.github.io)
 - 📫 **Email:** ettorericci2002@gmail.com
 
 ---
