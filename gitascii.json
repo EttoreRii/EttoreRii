@@ -5228,45 +5228,15 @@
       "zIndex": 3
     },
     {
-      "instanceId": "widget_420f9056-c7a1-4596-8cb3-819a5037ec2b",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
+      "instanceId": "widget_eb4a729a-78f8-4a4a-b0d4-2de8925ed78e",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
       "position": {
         "x": 0,
         "y": 386
       },
       "size": {
-        "width": 376,
-        "height": 176
-      },
-      "config": {
-        "selectedSocials": [
-          "github",
-          "linkedin",
-          "instagram",
-          "website"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/EttoreRii",
-          "instagram": "https://www.instagram.com/ettore.rii",
-          "linkedin": "https://www.linkedin.com/in/ettore-ricci-7a2699435",
-          "website": "https://ettorerii.github.io/"
-        }
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5
-    },
-    {
-      "instanceId": "widget_eb4a729a-78f8-4a4a-b0d4-2de8925ed78e",
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
-      "position": {
-        "x": 376,
-        "y": 386
-      },
-      "size": {
-        "width": 424,
+        "width": 800,
         "height": 176
       },
       "config": {
